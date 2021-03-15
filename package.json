@@ -1,0 +1,24 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/londonappbrewery/Simon-Game.git"
+  },
+  "author": "sankalp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/londonappbrewery/Simon-Game/issues"
+  },
+  "homepage": "https://github.com/londonappbrewery/Simon-Game#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
